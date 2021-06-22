@@ -1,0 +1,1 @@
+docker kill airflow-pi && docker rm airflow-pi
