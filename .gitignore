@@ -1,1 +1,5 @@
-dags/__pycache__
+csvs
+data
+creds.yaml
+.env
+*.ipynb

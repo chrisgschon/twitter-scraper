@@ -1,1 +1,0 @@
-docker build --tag airflow:0.1.0 .
